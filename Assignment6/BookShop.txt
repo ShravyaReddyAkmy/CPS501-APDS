@@ -1,0 +1,15 @@
+To Kill a Mockingbird, Lee, 1960, 35.99, Hardcover
+On the Road, Kerouac,1957, 15.99, Softcover
+1984, Orwell, 1949, 18.99, Softcover
+Life of Pi, Martel, 2001, 58.75, Hardcover
+Catch-22, Heller, 1961, 19.99, Softcover
+The Color Purple, Walker, 1982, 69.99, Hardcover
+Anna Karenina, Tolstoy, 1878, 95.00, Hardcover
+Memoirs of a Geisha, Golden, 1997, 89.99, Hardcover
+One Flew Over the Cuckoo's Nest, Kesey, 1962, 18.50, Softcover
+Shravya Story, Akmy, 2019, 50, cover
+Shravya, Akmy, 1, 1, cover
+Q, Q, q, q, Softcover
+Q, Q, q, q, Hardcover
+D, D, d, d, Hardcover
+W, W, 43, 65, Softcover

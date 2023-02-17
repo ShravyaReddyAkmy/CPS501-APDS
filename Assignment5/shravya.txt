@@ -1,0 +1,54 @@
+
+Report of user performance of arithmetic operations 
+Date: 11/11/2021 Time : 21:25:13
+
+
+Arithemetic operation = Addition 
+Total no.of practices = 3 
+Total no.of Correct Responses = 3 
+Total no.of Incorrect Responses = 0
+
+
+Arithemetic operation = Substraction 
+Total no.of practices = 4 
+Total no.of Correct Responses = 3 
+Total no.of Incorrect Responses = 1
+
+
+Arithemetic operation = Multiplication 
+Total no.of practices = 3 
+Total no.of Correct Responses = 0 
+Total no.of Incorrect Responses = 3
+
+
+Arithemetic operation = Division 
+Total no.of practices = 2 
+Total no.of Correct Responses = 0 
+Total no.of Incorrect Responses = 2
+
+**********************************************************
+
+Report of user performance of arithmetic operations 
+Date: 11/11/2021 Time : 21:28:35
+
+Arithemetic operation = Addition 
+Total no.of practices = 3 
+Total no.of Correct Responses = 0 
+Total no.of Incorrect Responses = 3
+
+Arithemetic operation = Substraction 
+Total no.of practices = 0 
+Total no.of Correct Responses = 0 
+Total no.of Incorrect Responses = 0
+
+Arithemetic operation = Multiplication 
+Total no.of practices = 2 
+Total no.of Correct Responses = 2 
+Total no.of Incorrect Responses = 0
+
+Arithemetic operation = Division 
+Total no.of practices = 0 
+Total no.of Correct Responses = 0 
+Total no.of Incorrect Responses = 0
+
+**********************************************************
